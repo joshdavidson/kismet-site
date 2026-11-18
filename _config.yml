@@ -1,2 +1,4 @@
-title: Kismet for iPhone and Apple TV
+title: Kismet Client
 theme: jekyll-theme-primer
+plugins: [jekyll-redirect-from]
+exclude: [README.md]
